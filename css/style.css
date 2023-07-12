@@ -101,7 +101,7 @@ g .svg-contat {
 }
 .back-img {
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url(/img/principal.png);
+    url(../img/principal.jpg);
   background-size: cover;
   height: 100%;
   text-align: center;
