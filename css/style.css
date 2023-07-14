@@ -148,6 +148,16 @@ button a {
   text-decoration: none;
   color: var(--primary-white-color);
 }
+.container-img__vectoriales svg {
+  background: var(--background-color-white);
+  width: 270px;
+  height: 120px;
+  box-sizing: border-box;
+  padding: 25px;
+  border-radius: 5px;
+  margin: 0 45px 0 0;
+  justify-content: center;
+}
 
 .img-svg img {
   background: var(--background-color-white);
@@ -169,7 +179,7 @@ button a {
   margin: 0 15px;
 }
 
-.img {
+.svg-vectoriales {
   display: flex;
   align-items: center;
   flex-direction: column;
